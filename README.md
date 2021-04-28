@@ -1,0 +1,2 @@
+# hbot
+Hentai discord bot
