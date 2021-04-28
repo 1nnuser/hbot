@@ -1,0 +1,4 @@
+token = ''
+PREFIX = 'h!'
+acces = []
+
